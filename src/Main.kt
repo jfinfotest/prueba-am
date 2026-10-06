@@ -9,8 +9,12 @@ fun main() {
     } else {
         "Acceso Denegado (Menor de edad)"
     }
-
     println("Estado: $mensaje")
+    println("Estado: $mensaje")
+    println("Estado: $mensaje")
+    println("Estado: $mensaje")
+    println("Estado: $mensaje")
+
 }
 
 
